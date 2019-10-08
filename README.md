@@ -1,3 +1,3 @@
 # CNN
 
-created a convolution neural netwrok to identify if given image is cat or dog
+Created a convolution neural netwrok to identify if a given image is cat or dog
